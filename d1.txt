@@ -4,7 +4,7 @@ int main()
     char c
     int isLowercaseVowel, isUppercaseVowel;
 
-    printf("Enter an alphabet: ");
+    printf("Enter an s alphabet: ");
     scanf("%c",&c);
 
     // evaluates to 1 (true) if c is a lowercase vowel
