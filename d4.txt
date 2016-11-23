@@ -16,7 +16,7 @@ fjgh
         for(i=1; i<=n; ++i)
         {
             factorial *= i;              // factorial = factorial*i;
-        }
+        }gj
         printf("Factorial of %d = %llu", n, factorial);
     }
 
