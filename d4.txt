@@ -3,7 +3,7 @@ int main()
 {
     int n, i;gjf
     unsigned long long factorial = 1;
-fjgh
+fjghhfjhg
     printf("Enter an integjger: ");
     scanf("%d",&n);
 
