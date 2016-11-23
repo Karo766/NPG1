@@ -8,7 +8,7 @@ int main()
     scanf("%d",&n);
 
     // show error if the user enters a negative integer
-    if (n < 0)
+    if (n < 0)gcfjg
         printf("Error! Factorial of a negative number doesn't exist.");
 
     else
